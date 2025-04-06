@@ -1,22 +1,19 @@
 {
     "tasks": [
         {
-            "task": "Complete the C CW"
+            "task": "Water 2.5 liter/m² to "
         },
         {
-            "task": "Complete the EP file"
+            "task": "Apply 20g/m² Urea"
         },
         {
-            "task": "Inspect for pests"
+            "task": "Check for Pest's damage"
         },
         {
-            "task": "Complete the EG sheets"
+            "task": "harvest potatos"
         },
         {
-            "task": "Find the Toppers"
-        },
-        {
-            "task": "Help Each other"
+            "task": "Buy extra Fertilizers "
         },
         {
             "task": "Refill the compost bin"
@@ -25,7 +22,7 @@
     "completed": [],
     "upcoming": [
         {
-            "task": "Complete The App"
+            "task": "Spray pestisides"
         },
         {
             "task": "Check irrigation system"
