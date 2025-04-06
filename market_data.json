@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cabbage",
+    "mandi": "Indore",
+    "price": "₹1,000/qt",
+    "type": "Vegetable",
+    "imageUrl": "assets/images/cabbag.png"
+  },
+  {
+    "name": "Cauliflower",
+    "mandi": "Pune",
+    "price": "₹900/qt",
+    "type": "Vegetable",
+    "imageUrl": "assets/images/Cauliflower.png"
+  },
+  {
+    "name": "Grapes",
+    "mandi": "Nashik",
+    "price": "₹3,200/qt",
+    "type": "Fruit",
+    "imageUrl": "assets/images/grapes.png"
+  },
+  {
+    "name": "Mango",
+    "mandi": "Ratnagiri",
+    "price": "₹4,000/qt",
+    "type": "Fruit",
+    "imageUrl": "assets/images/mango.png"
+  },
+  {
+    "name": "Potato",
+    "mandi": "Satara",
+    "price": "₹1,200/qt",
+    "type": "Vegetable",
+    "imageUrl": "assets/images/potato.png"
+  },
+  {
+    "name": "Rice",
+    "mandi": "Lucknow",
+    "price": "₹1,850/qt",
+    "type": "Grain",
+    "imageUrl": "assets/images/rice.png"
+  },
+  {
+    "name": "Tomato",
+    "mandi": "Banglore",
+    "price": "₹850/qt",
+    "type": "Vegetable",
+    "imageUrl": "assets/images/tomato.png"
+  },
+  {
+    "name": "Wheat",
+    "mandi": "Delhi",
+    "price": "₹4,500/qt",
+    "type": "Grain",
+    "imageUrl": "assets/images/wheat.png"
+  }
+]
